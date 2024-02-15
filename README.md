@@ -5,8 +5,6 @@
 
 - Transformers
 
-- Transfer Learning
-
 # CV - Computer Vision Transformer (ViT) - Overview and Implementation
 
 This Python script explores the Vision Transformer (ViT) architecture, focusing on key components such as patching, linear projections, positional embeddings, self-attention mechanism, dot product, normalization (Softmax function), masked multi-head attention, and multi-head attention. Additionally, it provides an illustration of the detailed pipeline and how attention works in ViT.
